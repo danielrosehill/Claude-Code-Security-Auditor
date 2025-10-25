@@ -1,5 +1,9 @@
 # Claude Code Security Auditor
 
+[![Claude Code](https://img.shields.io/badge/Claude-Code-8A2BE2?logo=anthropic&logoColor=white)](https://claude.ai/claude-code)
+[![Claude Code Projects](https://img.shields.io/badge/Claude_Code-Projects_Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 A comprehensive system for managing and auditing security configurations across multiple machines in your infrastructure using Claude Code.
 
 ## Features
