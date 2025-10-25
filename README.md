@@ -420,7 +420,7 @@ Planned features:
 
 ## License
 
-[To be determined]
+MIT
 
 ## Author
 
